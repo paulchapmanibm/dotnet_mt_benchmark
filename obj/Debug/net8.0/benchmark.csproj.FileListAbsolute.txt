@@ -1,0 +1,15 @@
+C:\Users\077805866\benchmark\bin\Debug\net8.0\benchmark.exe
+C:\Users\077805866\benchmark\bin\Debug\net8.0\benchmark.deps.json
+C:\Users\077805866\benchmark\bin\Debug\net8.0\benchmark.runtimeconfig.json
+C:\Users\077805866\benchmark\bin\Debug\net8.0\benchmark.dll
+C:\Users\077805866\benchmark\bin\Debug\net8.0\benchmark.pdb
+C:\Users\077805866\benchmark\obj\Debug\net8.0\benchmark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\077805866\benchmark\obj\Debug\net8.0\benchmark.AssemblyInfoInputs.cache
+C:\Users\077805866\benchmark\obj\Debug\net8.0\benchmark.AssemblyInfo.cs
+C:\Users\077805866\benchmark\obj\Debug\net8.0\benchmark.csproj.CoreCompileInputs.cache
+C:\Users\077805866\benchmark\obj\Debug\net8.0\benchmark.dll
+C:\Users\077805866\benchmark\obj\Debug\net8.0\refint\benchmark.dll
+C:\Users\077805866\benchmark\obj\Debug\net8.0\benchmark.pdb
+C:\Users\077805866\benchmark\obj\Debug\net8.0\benchmark.genruntimeconfig.cache
+C:\Users\077805866\benchmark\obj\Debug\net8.0\ref\benchmark.dll
+C:\Users\077805866\benchmark\obj\Debug\net8.0\benchmark.sourcelink.json
